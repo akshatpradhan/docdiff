@@ -43,3 +43,4 @@ group :test do
   gem 'mongoid-rspec'
 end
 gem 'hypodermic'
+gem 'carrierwave'
