@@ -10,6 +10,7 @@ gem 'jquery-rails'
 gem 'cancan'
 gem 'figaro'
 gem 'mongoid'
+gem 'mysql2'
 gem 'omniauth'
 gem 'omniauth-linkedin'
 gem 'rolify'
@@ -44,3 +45,4 @@ group :test do
 end
 gem 'hypodermic'
 gem 'carrierwave'
+gem 'paper_trail'

@@ -1,6 +1,3 @@
-class Document
-  include Mongoid::Document
-  field :title, type: String
-  field :content, type: String
-  field :user_id, type: Integer
+class Document < ActiveRecord::Base
+  attr_accessible :content, :title, :user_id
 end
