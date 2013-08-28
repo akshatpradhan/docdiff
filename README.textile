@@ -1,5 +1,7 @@
 h1. Docdiff
 
+Create a diff of two documents (e.g. contracts) and share the link with clients.
+
 This application was generated with the "rails_apps_composer":https://github.com/RailsApps/rails_apps_composer gem provided by the "RailsApps Project":http://railsapps.github.io/.
 
 h2. Diagnostics
@@ -46,19 +48,15 @@ The application is configured to send email using a Mandrill account.
 
 h2. Getting Started
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-h2. Documentation and Support
-
-This is the only documentation.
+Check the wiki
 
 h4. Issues
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+File issues here: https://github.com/akshatpradhan/docdiff/issues
 
 h2. Similar Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+http://winmerge.org
 
 h2. Contributing
 
