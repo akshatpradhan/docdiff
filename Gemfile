@@ -17,7 +17,7 @@ gem 'simple_form'
 gem 'thin'
 group :assets do
   gem 'less-rails'
-  gem 'therubyracer', :platform=>:ruby
+  gem 'therubyracer', "0.11.4", :platform=>:ruby
   gem 'twitter-bootstrap-rails'
 end
 group :development do
@@ -42,3 +42,4 @@ group :test do
   gem 'email_spec'
   gem 'mongoid-rspec'
 end
+gem 'hypodermic'
